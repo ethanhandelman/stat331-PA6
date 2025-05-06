@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Hannah Goudz, Adam Manzke, Ethan Handelman, Rihanna Lei"
 format: html
 embed-resources: true
 ---
