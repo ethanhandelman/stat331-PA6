@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Adam, Hannah, Ethan, Riana"
 format: html
 embed-resources: true
 ---
